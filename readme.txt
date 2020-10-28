@@ -1,2 +1,2 @@
-time.geekbang-about git
+time.geekbang-about git(http://...)
 test-3
